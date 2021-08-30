@@ -1,0 +1,10 @@
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\bin\Debug\VS_Database_Task1.dacpac
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\bin\Debug\VS_Database_Task1.dll
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\bin\Debug\VS_Database_Task1.pdb
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\obj\Debug\VS_Database_Task1.sqlproj.AssemblyReference.cache
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\obj\Debug\VS_Database_Task1.dll
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\obj\Debug\VS_Database_Task1.pdb
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\obj\Debug\Model.xml
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\obj\Debug\refactor.xml
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\obj\Debug\postdeploy.sql
+C:\Users\Hussein Hussein\source\repos\VisStudio_DatabaseTask\VS_Database_Solution\VS_Database_Task1\obj\Debug\predeploy.sql
